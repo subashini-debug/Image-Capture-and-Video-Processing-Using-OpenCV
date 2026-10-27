@@ -43,8 +43,8 @@ Resize the frame and rotate it using OpenCV functions, then display the processe
 ## 💻 Program
 
 ### Developed By:
-**Name: INDHUJA.K**  
-**Register No: 21225040133**
+**Name: Subashini K**  
+**Register No: 21225240160**
 
 ### i) Write the frame as JPG image
 ```python
